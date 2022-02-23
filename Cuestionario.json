@@ -1,0 +1,27 @@
+{
+    "questionGeek": [
+        {   "id":1,
+            "question": "¿Qué etiqueta es semánticamente correcta para el contenido principal?",
+            "a": "Main",
+            "b": "Section",
+            "c": "Header",
+            "corrrect": "Main"
+        },
+        {
+            "id":2,
+            "question": "¿Qué etiqueta HTML nos sirve para incluir archivos de JavaScript?",
+            "a": "<br>",
+            "b": "<script>",
+            "c": "<styles>",
+            "corrrect": "<script>"
+        },
+        {
+            "id":3,
+            "question": "¿Qué significa DRY?",
+            "a": "Don’t repeat yellow",
+            "b": "Don’t repeat yourself",
+            "c": "Don’t recicle year",
+            "corrrect": "Don’t repeat yourself"
+        }
+    ]
+}
